@@ -1,10 +1,6 @@
-This is the example code for the "Using the Foundation Email Framework" article.
+### Envato Tuts+ Tutorial: Your First Responsive Email Build With Foundation for Emails
+#### Instructor: Adam Burucs
 
-The source files folder has the following structure
+In this tutorial we’re going to take a first look at ZURB’s Foundation for Emails framework. We’ll get it setup, explain what comes in the package, then build ourselves a simple responsive email.
 
-* assets, styles and images
-* layouts, wrapper layouts
-* pages, base HTML codes
-* partials, reusable HTML parts
-
-The index page can be found here: src/pages/index.html
+**Available on Tuts+ April 2016**
